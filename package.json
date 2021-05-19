@@ -1,0 +1,12 @@
+{
+  "name": "typeScript-ej-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node js/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
